@@ -20,3 +20,9 @@ been restructured here as a clean, professional portfolio project.
 ## Status
 Project setup in progress. Documentation and structure completed first,
 followed by model implementation and evaluation.
+
+## Repository Structure
+- `data/` – Datasets and processed data used for analysis
+- `notebooks/` – Exploratory analysis and experimentation notebooks
+- `src/` – Reusable source code for models and utilities
+- `results/` – Outputs, visualisations, and evaluation results
