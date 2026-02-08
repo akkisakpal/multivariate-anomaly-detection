@@ -26,3 +26,12 @@ followed by model implementation and evaluation.
 - `notebooks/` – Exploratory analysis and experimentation notebooks
 - `src/` – Reusable source code for models and utilities
 - `results/` – Outputs, visualisations, and evaluation results
+
+## Data Description
+The analysis is based on system-level metrics collected over time from a
+running application. These metrics reflect memory usage behaviour and
+related resource indicators.
+
+Typical metrics include memory consumption patterns and other correlated
+signals that help identify abnormal behaviour associated with memory leaks.
+
